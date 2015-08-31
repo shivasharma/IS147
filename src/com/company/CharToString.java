@@ -23,7 +23,7 @@ public class CharToString {
         Scanner scanner= new Scanner(System.in);
         System.out.print("Enter Value");
         String input= scanner.nextLine();
-        System.out.print(input);
+        System.out.print(" The result is " +input);
     }
 }
 
