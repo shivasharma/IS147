@@ -30,7 +30,5 @@ public class CurrentTime {
         // Display results
         System.out.println("Current time is " + currentHour + ":"
                 + currentMinute + ":" + currentSecond + "GMT");
-
-
     }
 }
