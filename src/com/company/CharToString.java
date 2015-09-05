@@ -26,14 +26,12 @@ public class CharToString {
 //        System.out.print(" The result isgfhgfh " +input);
 
 
-        COmmandMessage();
-
-        Byte
+        Message();
 
 
     }
 
-    private static void COmmandMessage() {
+    private static void Message() {
         System.out.println("Celsius 35 is Fahrenheit degree ");
         System.out.println((9 / 5) * 35 + 32);
         System.out.println("9 / 5 is "  + (9.0/5));
