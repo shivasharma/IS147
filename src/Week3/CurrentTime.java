@@ -18,9 +18,9 @@ public class CurrentTime {
         // Obtain the total minutes
         long totalMinutes = totalSeconds / 60;
 
+
         // Compute the current minute in the hour
         long currentMinute = totalMinutes % 60;
-
         // Obtain the total hours
         long totalHours = totalMinutes / 60;
 
