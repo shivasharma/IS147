@@ -33,7 +33,7 @@ public class TravelCost {
 
             totalCost=(distance/mpg)*pricePerGallon;
 
-           Math.
+
             System.out.printf("The trip "+ location +" going to cost $ %1.3f",totalCost);
             System.out.println ();
         }
