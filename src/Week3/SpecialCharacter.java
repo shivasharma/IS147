@@ -7,9 +7,6 @@ public class SpecialCharacter {
 
     public static void main(String args[]) {
 
-
-
-
         System.out.println("This is Java  \"IS147!\".");
         System.out.println("Learning Programming"+  "\n\"" + "in java");
         System.out.println("Learning OOPS Concepts"+ "\t\""+ "in java");
