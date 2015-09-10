@@ -12,6 +12,7 @@ public class Conversion {
         double d=23.5d;
         int result=(int)f;
         double floatConversion=(int)d;
+
        // System.out.print (result);
         System.out.println (floatConversion);
         Integer ii=0;
