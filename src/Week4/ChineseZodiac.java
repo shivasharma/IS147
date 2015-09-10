@@ -1,4 +1,4 @@
-package Week3;
+package Week4;
 
 /**
  * Created by Shiva on 9/5/2015.
@@ -27,6 +27,10 @@ public class ChineseZodiac {
             case 10: System.out.println("horse"); break;
             case 11: System.out.println("sheep"); break;
 
+
         }
     }
+
+
+
 }
