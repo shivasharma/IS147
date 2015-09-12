@@ -25,9 +25,9 @@ public class RandomNumber {
         System.out.println (range);
 
         //Using Random class
-
+       //If you want to generate a number from 0 to 10 then your code would look like this:
         Random randominInt= new Random ();
-        int numberInt = randominInt.nextInt (10);
+        int numberInt = randominInt.nextInt (11);
         System.out.println ("The Int Random is " + numberInt);
 
         Random random= new Random ();
