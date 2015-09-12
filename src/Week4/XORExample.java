@@ -1,5 +1,7 @@
 package Week4;
 
+import java.util.Random;
+
 /**
  * Created by Shiva on 9/12/2015.
  */
@@ -25,7 +27,10 @@ public class XORExample {
             x = true;
             y = true;
             xXorY = x ^ y;
-            System.out.println("true XOR true: "+xXorY); //false
+            System.out.println ("true XOR true: " + xXorY); //false
+
+
+
     }
 
 }
