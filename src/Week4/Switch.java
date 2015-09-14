@@ -14,8 +14,6 @@ public class Switch {
         System.out.print ("Enter your classname for eg. IS147: ");
         String className = sc.nextLine ();
         Showmyclass (className);
-
-
     }
 
     public static  void Showmyclass(String myclass) {
