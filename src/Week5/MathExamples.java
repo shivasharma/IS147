@@ -39,7 +39,7 @@ public class MathExamples {
         System.out.println( "round "+ Math.round (5.5));
 
         //Random Methoda
-        System.out.println ((long) Math.random()*1000000);
+        System.out.println ((int)(Math.random()* 1001));
 
         Random rand= new Random ();
         int num= rand.nextInt(9999999)+9999999;
