@@ -32,20 +32,22 @@ public class Loop {
         MultiplicationTable(number);
 
 
-        int tableSize = 20;
-        printMultiplicationTable(tableSize);
+
         PrintSumofOddNumber();
 
         Average();*/
 
        // ControlFlowMenu();
+
+        int tableSize = 20;
+        printMultiplicationTable(tableSize);
     }
 
 
     public static void printMultiplicationTable(int tableSize) {
         int row, numberOfStars;
 
-        for (row = 10; row >= 1; row--) {
+        for (row = 20; row >= 1; row--) {
             for(numberOfStars = row; numberOfStars >= 1; numberOfStars--) {
                 out.print ("\t" + row);
             }
@@ -174,8 +176,6 @@ public class Loop {
        }
 
    }
-
-
 
 
     private static void ControlFlowMenu(){
