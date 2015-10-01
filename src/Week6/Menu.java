@@ -8,53 +8,32 @@ public class Menu {
     public static void main(String[] args) {
 
 
-       // Conversion();
-        MenuUsingFor();
+        MenuUsingDoWhile();
+        //MenuUsingFor();
 
 
     }
 
-    public static void Conversion(){
+  public static void MenuUsingDoWhile(){
+      int number=10;
+      char repeat;
+      String input;
+      int sum=0;
+      Scanner keyboard= new Scanner (System.in);
+      System.out.println (" This program sum the number");
+      do{
+          System.out.print("Enter a number: ");
+          number=keyboard.nextInt();
+          System.out.println (number);
+          sum+=number;
+          System.out.println ("Would you like to add another number press Y for yes or N for no" );
+          keyboard.nextLine ();
+          input=keyboard.nextLine();
+          repeat=input.charAt(0);
+      }while(repeat =='Y'||repeat=='y' );
+      System.out.format (" The sum of current number %d " ,sum);
 
-
-        Scanner input = new Scanner(System.in) ;
-        String units;       // Unit of measurement, entered by user.
-        double measurement; // A numerical measurement, input by the user.
-        String quit="q";
-        double inches;      // The same measurement, converted into inches.
-        do {
-            System.out.println ("What unit of measurement does your input use?");
-            System.out.print ("Legal responses: inches, feet, yards, or miles : ");
-            units = input.next ().toLowerCase ();
-
-            System.out.print ("Enter the number of " + units + ":  ");
-            System.out.println ("Enter q to quit program");
-            measurement = input.nextDouble ();
-            quit=input.next ();
-
-            switch (units) {
-                case "inches":
-                    inches = measurement;
-                    System.out.println ("Inches" + inches);
-
-                    break;
-                case "feet":
-                    inches = measurement * 12;
-
-                    break;
-                case "yards":
-                    inches = measurement * 36;
-                    break;
-                case "miles":
-                    inches = measurement * 12 * 5280;
-                    break;
-                default:
-                    System.out.println ("Wait a minute!  Illegal unit of measure!  I quit!");
-                    System.exit (1);
-            } // end switch
-        }while(quit=="q");
-    }
-
+  }
     public static void MenuUsingFor(){
         for(;;) {      // loop for ever
 
@@ -69,13 +48,10 @@ public class Menu {
             System.out.println("3. Display list of Clients");
 
             System.out.println("4. Delete entry");
-
-            System.out.println("5. Deposit");
-
-            System.out.println("6. Withdrawal");
+;
 
             Scanner input = new Scanner(System.in) ;
-            System.out.println ("Enter yuor choise");
+            System.out.println ("Enter your choise");
             int opt =input.nextInt ();
 
             int option = opt;
@@ -95,9 +71,7 @@ public class Menu {
 
                 case 4 : System.out.println("Deleting Entry"); break ;
 
-                case 5 : System.out.println("Depositing"); break;
 
-                case 6 : System.out.println("Withrawing"); break;
 
                 default: System.out.println("Invalid Option"); break;
 

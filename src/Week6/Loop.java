@@ -36,10 +36,9 @@ public class Loop {
         printMultiplicationTable(tableSize);
         PrintSumofOddNumber();
 
-        Average();
-        AskQuestionToQuit();
-*/
-        ControlFlowMenu();
+        Average();*/
+
+       // ControlFlowMenu();
     }
 
 
@@ -139,7 +138,7 @@ public class Loop {
             for(y=1;y<5; y++){
                 if(y>x)
                     break;
-                out.println ("*");
+                out.println (y);
             }
 
             if(x%2!=0)
@@ -177,19 +176,6 @@ public class Loop {
    }
 
 
-    private static void AskQuestionToQuit(){
-        int answer = 0;
-        String yes = "";
-        Scanner input = new Scanner(in);
-        do{
-            do{
-                out.println("Enter your number");
-                answer = input.nextInt();
-            } while ( answer != 1);
-            out.println("Would you like to play again?");
-            yes = input.next();
-        } while ( yes.equalsIgnoreCase("yes") || yes.equals ('y')|| yes.equals ('Y'));
-    }
 
 
     private static void ControlFlowMenu(){
