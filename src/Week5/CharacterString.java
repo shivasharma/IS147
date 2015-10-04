@@ -124,8 +124,11 @@ public class CharacterString {
         boolean result2= str2.equals (str3);
         System.out.println (result2);
 
+        char a = 'b';
+        System.out.println(a);
+        int one = a - 46;//
 
-
+        System.out.println(one);
 
     }
 }
