@@ -12,14 +12,14 @@ public class Scope {
     {
 
         int num=20; //local method variable
-        System.out.println("Global Number is "+number);
-        System.out.println("Main Number is"+num);
+        System.out.println("Global Number is " +number);
+        System.out.println("Main Number is" +num);
         sub();
     }
 
     public static void sub(){
         int num=500;
-        System.out.println("Global Number is"+number);
-        System.out.println("Sub Number is "+num);
+        System.out.println("Global Number is" +number);
+        System.out.println("Sub Number is " +num);
     }
 }
