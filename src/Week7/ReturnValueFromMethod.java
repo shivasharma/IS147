@@ -9,7 +9,7 @@ public class ReturnValueFromMethod {
     {
 
        int number=25;
-        System.out.println( number + " is" + sub(number));
+        System.out.println( number + " is " + sub(number));
 
         if(sub2(number)){
             System.out.println( number + " is above 10");
