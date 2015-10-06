@@ -16,6 +16,7 @@ public  class Person {
            return name;
     }
 
+    //void method does not have any return type
     public void PrintName(){
         System.out.println("Private method printName");
     }
