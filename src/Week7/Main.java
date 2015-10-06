@@ -9,6 +9,7 @@ public class Main {
 
     public static void main(String [] args){
         Person  person= new Person ();
+        person.PrintName();
         String personName= person.GetPersonName("shiva");
 
         System.out.println(personName);
@@ -23,7 +24,7 @@ public class Main {
 
 
 
-class Method {
+ class Method {
 
     public static int Printnumber(int x, int y){
         return x+y;
