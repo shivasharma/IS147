@@ -8,4 +8,14 @@ public class Person {
      public int age=0;
     double height=0.0d;
 
+
+    public  int Printnumber(int x, int y){
+        return x+y;
+    }
+    public  int Printnumber(int x, int y,int z){
+        return x+y+z;
+    }
+    public  int Printnumber(int x, int y,int z,int a){
+        return x+y+z+a;
+    }
 }

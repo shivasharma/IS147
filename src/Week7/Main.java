@@ -10,8 +10,15 @@ public class Main {
     public static void main(String [] args){
         Person  person= new Person ();
         person.name="shiva";
-        // int sum= m.Printnumber (2, 3);
-       // System.out.println (sum);
+        System.out.println (person.name);
+
+         int sum = person.Printnumber (2, 3);
+        System.out.println (sum);
+        int sum1 = person.Printnumber (2, 3,5);
+        System.out.println (sum1);
+
+        int sum2 = person.Printnumber (2, 3,5,7);
+        System.out.println (sum2);
     }
 }
 
