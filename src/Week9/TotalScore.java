@@ -15,7 +15,12 @@ public class TotalScore {
                 {{9.5, 20.5}, {9.4, 42.5}, {13, 31.5}, {12, 20.5}, {16, 6.5}},
                 {{1.5, 29.5}, {6.4, 22.5}, {14, 30.5}, {10, 30.5}, {16, 6.0}}};
 
+       //  double[][][]scores= new double[7][5][2];
         // Calculate and display total score for each student
+          //6 scores
+          //7 students
+          //2
+        //sum=7.5+20.5+9.0+22.5+15+33.5+13+21.5+15+2.5
         for (int i = 0; i < scores.length; i++) {
             double totalScore = 0;
             for (int j = 0; j < scores[i].length; j++)
