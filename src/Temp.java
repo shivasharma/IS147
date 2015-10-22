@@ -1,69 +1,40 @@
-//  Buban Ndeta bndeta@gmail.com
-package com.company;
-
-import java.util.Scanner;
-
 public class Temp {
-    public static void main(String[] args) {
-        Scanner keyboard = new Scanner(System.in);
-
-        int number = 10;
-        char repeat;
-        String input;
-        int count = 0;
-
-        int score1;
-        int score2;
-        int score3;
-        double ScoreAvg;
-
-        System.out.print("Enter the first score: ");
-        score1 = keyboard.nextInt();
-
-        System.out.print("Enter the second score: ");
-        score2 = keyboard.nextInt();
-
-        System.out.print("Enter the third score: ");
-        score3 = keyboard.nextInt();
-
-        ScoreAvg = (score1 + score2 + score3) / 3.0;
-        ScoreAvg = Math.round(ScoreAvg);
 
 
-        System.out.println("Average score: " + ScoreAvg + " " + "\n");
+    public static void main(String args[]) {
+        // create arrays of Integer, Double and Character
+        Integer[] integerArray = { 1, 2, 3, 4, 5, 6 };
+        Double[] doubleArray = { 1.1, 2.2, 3.3, 4.4, 5.5, 6.6, 7.7 };
+        Character[] characterArray = { 'H', 'E', 'L', 'L', 'O' };
 
-        System.out.println("Would you like to average another set of test scores press Y for yes or N for no");
-        keyboard.nextLine();
-        input = keyboard.nextLine();
-        repeat = input.charAt(0);
+        System.out.println("Array integerArray contains:");
+        printArray(integerArray); // pass an Integer array
+        System.out.println("\nArray doubleArray contains:");
+        printArray(doubleArray); // pass a Double array
+        System.out.println("\nArray characterArray contains:");
+        printArray(characterArray); // pass a Character array
+    }
+    // method printArray to print Integer array
+    public static void printArray(Integer[] inputArray) {
+        // display array elements
+        for (Integer element : inputArray)
+            System.out.printf("%s ", element);
+        System.out.println();
+    }
+    // method printArray to print Double array
+    public static void printArray(Double[] inputArray) {
+        // display array elements
+        for (Double element : inputArray)
+            System.out.printf("%s ", element);
+        System.out.println();
+    }
 
-        while (repeat == 'Y' || repeat == 'y' || (!(repeat == 'Q')) ) {
-            count++;
-            System.out.print("Enter the first score: ");
-            score1 = keyboard.nextInt();
-
-            System.out.print("Enter the second score: ");
-            score2 = keyboard.nextInt();
-
-            System.out.print("Enter the third score: ");
-            score3 = keyboard.nextInt();
-
-            ScoreAvg = (score1 + score2 + score3) / 3.0;
-            ScoreAvg = Math.round(ScoreAvg);
-
-            System.out.println(ScoreAvg);
-
-            System.out.println("Average score: " + ScoreAvg + " " + "\n");
-
-            System.out.println("Would you like to average another set of test scores press Y for yes or N for no");
-            keyboard.nextLine();
-            input = keyboard.nextLine();
-            repeat = input.charAt(0);
-        }
+    // method printArray to print Character array
+    public static Character[] printArray(Character[] inputArray) {
+        // display array elements
+        for (Character element : inputArray)
+            System.out.printf("%s ", element);
+        System.out.println(inputArray);
+        return inputArray;
     }
 }
-
-
-
-
-

@@ -9,8 +9,8 @@ public class Main {
 
     public static void main(String [] args){
         Person  person= new Person ();
-        person.name="shiva";
-        System.out.println (person.name);
+       // person.name="shiva";
+       // System.out.println (person.name);
 
          int sum = person.Printnumber (2, 3);
         System.out.println (sum);
