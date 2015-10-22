@@ -21,6 +21,7 @@ public class MultiArray {
         System.out.println(iarr[0][0]);
         System.out.println(iarr[0][1]);
         System.out.println(iarr[0][2]);
+
         System.out.println(iarr[1][0]);
         System.out.println(iarr[1][1]);
         System.out.println(iarr[1][2]);
