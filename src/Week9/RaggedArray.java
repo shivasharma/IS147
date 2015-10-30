@@ -7,26 +7,37 @@ public class RaggedArray {
 
     public static void main(String[] args)
     {
-        //One Dimensional Array of lenghth 3
-        int[] OneDimensionalArray1 = {1, 2, 3};
 
-        //One Dimensional Array of lenghth 4
-        int[] oneDimensionalArray2 = {4, 5, 6, 7};
+        int[][] arrayNumbers = new int[2][6];
+        arrayNumbers[0][0] = 1;
+        arrayNumbers[0][1] = 2;
+        arrayNumbers[0][2] = 3;
+        arrayNumbers[0][3] = 4;
+        arrayNumbers[0][4] = 5;
 
-        //One Dimensional Array of lenghth 5
-        int[] oneDimensionalArray3 = {8, 9, 10, 11, 12};
+        double[][]arrayDouble = new double [2][6];
+        arrayDouble [0][0] = 1.1;
+        arrayDouble [0][1] = 2.2;
+        arrayDouble [0][2] = 3.3;
+        arrayDouble [0][3] = 4.4;
+        arrayDouble [0][4] = 5.5;
 
-        //Jagged Two Dimensional Array
-        int[][] twoDimensionalArray = {OneDimensionalArray1, oneDimensionalArray2, oneDimensionalArray3};
+        char[] arrayChar = {'h','e','l','l','o'};
 
-        //Printing elements of Two Dimensional Array
-        for (int i = 0; i < twoDimensionalArray.length; i++)
-        {
-            for (int j = 0; j < twoDimensionalArray[i].length; j++)
-            {
-                System.out.print(twoDimensionalArray[i][j]+"\t");
+
+        int rows = 2;
+        int columns = 5;
+
+        int i,j;
+
+        for (i=0; i<rows ; i++){
+            for (j=0; j< columns ; j++){
+                System.out.print(arrayNumbers[i][j]+"");
             }
-            System.out.println();
+
+            System.out.print("");
         }
+
     }
-}
+    }
+
