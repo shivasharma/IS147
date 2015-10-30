@@ -46,9 +46,18 @@ public class Exam {
           System.out.print (y[i] + "");
           
       }
+      System.out.println ("Assume boolean[][] x = new boolean[5][7], what are x.length and x[2].length?");
+      boolean[][]abc=new boolean[5][7];
+      System.out.println (abc.length +  " and " +abc[2].length );
+
+
+
+
       System.out.println ();
-      String s1= "Welecom is java";
-      String s2= "programming is fun";
+      String s1= "Welcome to java ";
+      String s2= "Programming  is fun";
+
+      CharSequence cs1 = "Welcome";
 
       System.out.println (s1.equals (s2));
       System.out.println (s2.equals (s1));
@@ -56,6 +65,7 @@ public class Exam {
       System.out.println (s2.contains (s1));
       System.out.println (!s1.contains (s2));
 
+     // System.out.println ( s1.contains(cs1));
 
       System.out.println ("argv.lenght is " + argv.length);
 
@@ -79,7 +89,7 @@ public class Exam {
       int z=(int)x2;
       System.out.println ("x2 is " + x2 + " and z is " +z);
 
-
+  //This question was repetated
       boolean even=false;
       if(even){
           System.out.println ("It is even");
