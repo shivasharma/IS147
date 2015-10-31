@@ -89,7 +89,7 @@ public class Exam {
       int z=(int)x2;
       System.out.println ("x2 is " + x2 + " and z is " +z);
 
-  //This question was repetated
+  //This question was repeated
       boolean even=false;
       if(even){
           System.out.println ("It is even");
@@ -101,7 +101,26 @@ public class Exam {
       if(number<=0)
           System.out.println (number);
 
+      int age=15;
 
+    //  if(age<16)
+      //    System.out.println ("cannot get a driver license");
+
+    //  if(age>=16)
+      //    System.out.println ("can get a driver license");
+
+
+      if(age<16)
+          System.out.println ("cannot get a driver license");
+      else
+          System.out.println ("can get a driver license");
+
+    //  if(age<16){
+      //    System.out.println ("cannot get a driver license");
+    //  }
+    //  else if(age>=16)
+    //      System.out.println ("can get a driver license");
+    //
 
 
   }
@@ -119,5 +138,7 @@ public class Exam {
     public static void xMethod(double[]a){
         System.out.println (a.length);
     }
+
+
 
 }
