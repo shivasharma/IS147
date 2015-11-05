@@ -24,6 +24,7 @@ public class Car
     }
 
 
+
     // define Getter and setter methods for all properties
     private String getMake() {
         return make;
