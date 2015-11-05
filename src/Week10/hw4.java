@@ -8,7 +8,7 @@ public class hw4 {
         System.out.println("Default constructor");
     }
     public hw4(String str){
-        this();
+        //It will call a default constrctor
         System.out.println("Parametrized constructor with single param");
     }
     public hw4(String str, int num){
