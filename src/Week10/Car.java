@@ -15,12 +15,9 @@ public class Car
 
     //create parameterized constructor which takes 4 parameters
     //pass and assign properties
-    public Car(String make, ......... , ......, .....){
+    public Car(String make){
         this.make=make;
-        .........
-        ........
-        ......
-        .....
+
     }
 
 
@@ -38,18 +35,18 @@ public class Car
 
     public String toString() {
 
-        return "Make of Car: " + getMake() + "\n Model of Car: " + getModel()
-                + "\n Price of Car: " + getPrice() + "\n Year of Car: " + getYear();
-
+       // return "Make of Car: " + getMake() + "\n Model of Car: " + getModel()
+            //    + "\n Price of Car: " + getPrice() + "\n Year of Car: " + getYear();
+      return null;
     }
 
 }
 
 
-class TestOverloading
-{
-    public static void main(String args[])
-    {
+//class TestOverloading
+//{
+   // public static void main(String args[])
+   // {
 
         //create car object
 
@@ -63,5 +60,5 @@ class TestOverloading
         //call toString methdd
 
 
-    }
-}
+   // }
+//}
