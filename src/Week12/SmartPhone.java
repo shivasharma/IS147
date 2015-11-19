@@ -34,7 +34,8 @@ public class SmartPhone  implements Iphone,Android,BlackBerry,Nokia{
         System.out.println ("BlackBerry Interface Feature");
     }
 }
-interface Iphone {
+ interface Iphone {
+     public String name="Iphone";
     public void TakePhoto();
 
 }
