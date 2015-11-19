@@ -29,6 +29,7 @@ interface Shape{
     double getArea();
 }
 
+//circle class that implements shape interface
 class Circle implements Shape {
 
     private double radius;
