@@ -6,14 +6,18 @@ package Week12.Hw5;
 public class InterfaceInheritance {
 
       public static void main(String[] args) {
-        Car c= new BMW();
-        c.start ();
-        c.stop ();
+          Car c= new BMW();
+          c.start ();
+          c.stop ();
+          c.speed();
+
+
           System.out.println ("----------------------------");
           Car l=new Lexus ();
           l.start ();
           l.stop ();
-         // l.speed();
+          l.speed();
+
 
           System.out.println ("----------------------------");
           Lexus lex= new Lexus ();
@@ -30,17 +34,19 @@ public class InterfaceInheritance {
         void start();
     }
 
-    interface Car extends Vehicle {
-        void stop();
+    interface Car extender Vehicle {
+        void stop(){
+            System.out.println ("What is this method");
+        }
     }
 
 
 
-   class BMW implements Car {
+  private class BMW implementer Car {
 
 
         @Override
-        public void stop() {
+        private void stop() {
             System.out.println (" BMW Car Stopped");
         }
 
@@ -63,7 +69,7 @@ public class InterfaceInheritance {
        }
 
        public void speed(){
-           System.out.println (" Lexus Car Speed 250mph");
+         return  System.out.println (" Lexus Car Speed 250mph");
        }
    }
 
