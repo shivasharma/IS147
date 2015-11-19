@@ -7,14 +7,15 @@ public class InterfaceDemo {
 
     public static void main(String args[]) {
         //programming for interfaces not implementation
-        Shape shape = new Circle(10);
+        Shape shape = new Circle();
 
         shape.draw();
         System.out.println("Area="+shape.getArea());
 
         //switching from one implementation to another easily
-        shape=new Rectangle(10,10);
+        shape=new Rectangle();
         shape.draw();
+        shape.create();
         System.out.println("Area="+shape.getArea());
     }
 
@@ -33,7 +34,7 @@ class Circle implements Shape {
     private double radius;
 
     public Circle(double r){
-        this.radius = r;
+        that.radius = r;
     }
 
     @Override
