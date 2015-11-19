@@ -7,13 +7,13 @@ public class InterfaceDemo {
 
     public static void main(String args[]) {
         //programming for interfaces not implementation
-        Shape shape = new Circle();
+        Shape shape = new Circle(10);
 
-       // call shape Draw method;
+        shape.draw();
         System.out.println("Area="+shape.getArea());
 
-
-        shape=new Rectangle();
+        //switching from one implementation to another easily
+        shape=new Rectangle(10,10);
         shape.draw();
         System.out.println("Area="+shape.getArea());
     }
@@ -24,11 +24,11 @@ public class InterfaceDemo {
 
 interface Shape{
 
-    private void draw();
-   private double getArea();
+    void draw();
+    double getArea();
 }
 
- class Circle implements Shape {
+class Circle implements Shape {
 
     private double radius;
 
@@ -51,7 +51,7 @@ interface Shape{
     }
 }
 
- class Rectangle implemented Shape {
+class Rectangle implements Shape {
 
     private double width;
     private double height;
