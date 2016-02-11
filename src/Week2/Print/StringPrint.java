@@ -7,14 +7,17 @@ public class StringPrint {
     public static  void main(String[] args){
 
         System.out.println("Welcome to Java \"Programming!\" IS147.");
-//nsert a tab in the text at this point.
+        //Insert a tab in the text at this point.
         System.out.println("Welcome to Java \t IS147.");
+       //Insert a backspace in the text at this point.
         System.out.println("Welcome to Java \b IS147.");
+       // Insert a newline in the text at this point.
         System.out.println("Welcome to Java \n IS147.");
+        //Insert a carriage return in the text at this point.
         System.out.println("Welcome to Java \r IS147.");
 
 
-        System.out.println ("*************************************************");
+        System.out.println ("******************STRING PRINT FORMAT*******************************");
 
         float floatVar=1.345f;
         int intVar =5;
