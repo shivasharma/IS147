@@ -1,5 +1,7 @@
 package Week2.Print;
 
+import java.util.Date;
+
 /**
  * Created by Shiva on 2/10/2016.
  */
@@ -15,6 +17,15 @@ public class StringPrint {
         System.out.println("Welcome to Java \n IS147.");
         //Insert a carriage return in the text at this point.
         System.out.println("Welcome to Java \r IS147.");
+
+        System.out.printf("%10s %10s %10s\n", "Hello", "Java", "I am a string");
+
+
+        System.out.printf("The DATE is %tD\n", new Date () );
+        // num is 3.141593
+        System.out.printf("num is %f\n", Math.PI );
+        // num is 3.14
+        System.out.printf("num is %.2f\n", Math.PI );
 
 
         System.out.println ("******************STRING PRINT FORMAT*******************************");
