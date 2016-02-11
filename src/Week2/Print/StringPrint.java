@@ -20,7 +20,7 @@ public class StringPrint {
 
         System.out.printf("%10s %10s %10s\n", "Hello", "Java", "I am a string");
 
-
+        //print date
         System.out.printf("The DATE is %tD\n", new Date () );
         // num is 3.141593
         System.out.printf("num is %f\n", Math.PI );
