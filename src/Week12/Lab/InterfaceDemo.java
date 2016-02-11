@@ -4,7 +4,7 @@ package Week12.Lab;
  * Created by Shiva on 11/18/2015.
  */
 public class InterfaceDemo {
-
+/*
     public static void main(String args[]) {
         //programming for interfaces not implementation
         Shape shape = new Circle();
@@ -34,21 +34,21 @@ class Circle implements Shape {
 
     private double radius;
 
-    public Circle(double r){
+    public Circle(double r) {
         that.radius = r;
     }
 
     @Override
     public void draw() {
-        System.out.println("Drawing Circle");
+        System.out.println ("Drawing Circle");
     }
 
     @Override
-    public double getArea(){
-         Math.PI*this.radius*this.radius;
+    public double getArea() {
+        Math.PI * this.radius * this.radius;
     }
 
-    public double getRadius(){
+    public double getRadius() {
         return this.radius;
     }
 }
@@ -58,18 +58,19 @@ class Rectangle implements Shape {
     private double width;
     private double height;
 
-    public Rectangle(double w, double h){
-        this.width=w;
-        this.height=h;
+    public Rectangle(double w, double h) {
+        this.width = w;
+        this.height = h;
     }
+
     @Override
     public void draw() {
-        System.out.println("Drawing Rectangle");
+        System.out.println ("Drawing Rectangle");
     }
 
     @Override
     public double getArea() {
-        return this.height*this.width;
+        return this.height * this.width;
     }
-
+*/
 }

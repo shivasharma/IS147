@@ -8,7 +8,7 @@ package Week11.ClassLabAggregation;
     // return n*n;
         class Operation{
             public void square(int n){
-                return n*n;
+                //return n*n;
             }
         }
 
@@ -21,7 +21,8 @@ class Circle{
 
     double area(int radius){
 
-       return "How do I fix this";
+      // return "How do I fix this";
+        return 0.0;
     }
 
 

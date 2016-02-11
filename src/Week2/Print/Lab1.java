@@ -9,9 +9,9 @@ public class Lab1 {
     {
 
 
-        System.out.print("This is my first message");
+        System.out.println("This is my first message");
 
-        System.out.println ("This is my second message");
+        System.out.println("This is my second message");
 
         System.out.println("This is my third message");
 

@@ -5,7 +5,7 @@ package Week9;
  */
 import java.util.Scanner;
 
-public class GuessBirthdayUsingArray {
+public class GuessBirthdayusingArray {
     public static void main(String[] args) {
         int day = 0; // Day to be determined
         int answer;

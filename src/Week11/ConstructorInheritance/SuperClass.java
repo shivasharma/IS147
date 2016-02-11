@@ -3,7 +3,7 @@ package Week11.ConstructorInheritance;
 /**
  * Created by Shiva on 11/11/2015.
  */
-public class Superclass {
+class Superclass {
     int age;
 
     Superclass(int age){
