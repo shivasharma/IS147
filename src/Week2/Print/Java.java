@@ -8,10 +8,11 @@ public class Java {
     {
 
         System.out.print("hello world 1");
+
         int x = Integer.MAX_VALUE;
         int y = Integer.MAX_VALUE + 1;
 
-        System.out.printf("%d %d%n", x, y);
+        System.out.printf("%d %d", x, y);
 
         int count=0;
 

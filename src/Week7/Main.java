@@ -9,25 +9,24 @@ public class Main {
 
     public static void main(String [] args){
         Person  person= new Person ();
-        person.PrintName();
-        String personName= person.GetPersonName("shiva");
+       // person.name="shiva";
+       // System.out.println (person.name);
 
-        System.out.println(personName);
+         int sum = person.Printnumber (2, 3);
+        System.out.println (sum);
+        int sum1 = person.Printnumber (2, 3,5);
+        System.out.println (sum1);
 
-
-        Method method=new Method();
-       int result= method.Printnumber(2,3);
-        System.out.println(result);
-
+        int sum2 = person.Printnumber (2, 3,5,7);
+        System.out.println (sum2);
     }
 }
 
 
-
- class Method {
+/*
+class Method {
 
     public static int Printnumber(int x, int y){
         return x+y;
     }
-}
-;
+}*/
