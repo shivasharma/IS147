@@ -1,33 +1,29 @@
 package Week2.Print;
 
+import java.util.Scanner;
+
 /**
  * Created by Shiva on 8/30/2015.
  */
 public class Java {
-    public static void main(String[] args)
-    {
+    public static void main(String[] args) {
 
-        System.out.print("hello world 1");
+        Scanner scan = new Scanner(System.in);
+        int num1, num2;
+        System.out.println("Enter first number;");
+        num1=scan.nextInt();
+        System.out.println("Enter second number;");
+        num2=scan.nextInt();
+        System.out.println("enter 0 to quit, enter 1 to add, enter 2 to subtract, enter 3 to multiply, enter 4 to divide");
+        int add1, subtract1,multiply1, divide1;
+        add1 = num1+num2;
+        subtract1= num1-num2;
+        multiply1= num1*num2;
+        divide1= num1/num2;
 
-        int x = Integer.MAX_VALUE;
-        int y = Integer.MAX_VALUE + 1;
-
-        System.out.printf("%d %d", x, y);
-
-        int count=0;
-
-        System.out.println(count);
-
-        int number1 = 1;
-        int number2 = 2;
-        double average = (number1 + number2) / 2.0;
-        System.out.println(" This is a result of first avg" +average);
-
-        int number3 = 1;
-        int number4 = 2;
-        double average1 = (number3 + number4) / 2;
-        System.out.println(" This is a result of second avg" +average1);
 
 
     }
 }
+
+

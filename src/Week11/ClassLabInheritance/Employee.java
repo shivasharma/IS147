@@ -12,7 +12,7 @@ package Week11.ClassLabInheritance;
         }
     }
 
-
+ //use inheritance here
     class Programmer  Employees {
         int bonus = 5000;
 
@@ -22,7 +22,7 @@ package Week11.ClassLabInheritance;
         }
 
         public static void main(String args[]) {
-
+             //create object here
             System.out.println ("Programmer salary is:" + p.salary);
             System.out.println ("Bonus of Programmer is:" + p.bonus);
         }

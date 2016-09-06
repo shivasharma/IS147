@@ -1,7 +1,7 @@
 package Week2.Print;
 
 /**
- * Created by Shiva on 2/10/2016.
+ * Created by Shiva on 09/5/2016.
  */
 public class Lab1 {
     /*
@@ -15,9 +15,10 @@ public class Lab1 {
 
         System.Out.println("This is my third message")
 
+        System.println("This is another message")
 
 
-
+}
 
      */
 }
