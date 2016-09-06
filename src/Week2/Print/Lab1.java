@@ -17,7 +17,7 @@ public class Lab1 {
 
         System.println("This is another message")
 
-
+          System.printLn("This is another message")
 }
 
      */
