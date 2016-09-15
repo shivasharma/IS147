@@ -11,10 +11,10 @@ public class Conversion {
         float f=12.5f;
         double d=23.5d;
         int result=(int)f;
-        double floatConversion=(int)d;
-       // System.out.print (result);
+        double floatConversion = (byte) d;
+        //System.out.print (result);
         System.out.println (floatConversion);
         Integer ii=0;
-        System.out.println (ii.MAX_VALUE);
+        System.out.println (Integer.MAX_VALUE);
     }
 }

@@ -27,7 +27,7 @@ public class StringPrint {
         // num is 3.14
         System.out.printf("num is %.2f\n", Math.PI );
 
-
+        System.out.print (Math.PI);
         System.out.println ("******************STRING PRINT FORMAT*******************************");
 
         float floatVar=1.345f;
