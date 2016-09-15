@@ -10,6 +10,12 @@ public class SpecialCharacter {
         System.out.println("This is Java  \"IS147!\".");
         System.out.println("Learning Programming"+  "\n\"" + "in java");
         System.out.println("Learning OOPS Concepts"+ "\t\""+ "in java");
+
+        System.out.println (1.0 - 0.1 - 0.1 - 0.1 - 0.1 - 0.1);
+
+        System.out.println (1.0 - 0.9);
+
     }
 
 }
+
