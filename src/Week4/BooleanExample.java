@@ -18,5 +18,17 @@ public class BooleanExample {
         String stringBoolean = "true";
         boolean parsed = Boolean.parseBoolean (stringBoolean);
         System.out.println ("Parsed value" + parsed);
+
+        char c1 = '1';
+        System.out.println ("Character " + c1);
+        char dollarSign = '\u0024';
+        System.out.println ("Currency " + dollarSign);
+
+        //Example Postfix vs prefix
+        int intValue = 10;
+        System.out.println (intValue++);
+        System.out.println (++intValue);
+
+
     }
 }
