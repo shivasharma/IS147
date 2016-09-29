@@ -17,6 +17,7 @@ public class CharacterString {
         char numChar = '4';// (ASCII)
         System.out.println ("4 ASCII character is "+ numChar);
         System.out.println ("------------------------------");
+
         char letterUni = '\u0041'; //(Unicode)
         System.out.println ("UNICODE  Letter character is "+ letterUni);
         System.out.println ("------------------------------");
@@ -27,10 +28,7 @@ public class CharacterString {
         //ESCAPE SEQUENCE
         System.out.println ("Hello \n world");
         System.out.println ("------------------------------");
-        System.out.println ("Hello \b world");
-        System.out.println ("------------------------------");
-        System.out.println ("Hello \f world");
-        System.out.println ("------------------------------");
+
         System.out.println ("Hello \r world");
         System.out.println ("------------------------------");
         System.out.println ("Hello \\ world");
