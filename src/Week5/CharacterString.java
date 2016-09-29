@@ -1,7 +1,5 @@
 package Week5;
 
-import java.util.Locale;
-
 /**
  * Created by Shiva on 9/23/2015.
  */
@@ -59,7 +57,7 @@ public class CharacterString {
 
         String s="Java";
         s="HTML";
-        System.out.println (s);
+        System.out.println ("Original Value of S is Java new value is " + s);
 
 
         System.out.println ("------------- String Length---------------");
@@ -80,13 +78,13 @@ public class CharacterString {
         String s2= " Is easy";
 
         String s3= s1.concat (s2);
-        System.out.println ("Concat "+ s3);
+        System.out.println ("Concat example " + s3);
 
         System.out.println ("------------- String Index of ---------------");
 
         String str="myemail@umbc.edu";
         int isAt=str.indexOf ("@");
-        System.out.println (isAt);
+        System.out.println ("@ symbole is at index " + isAt);
         System.out.println ("------------------------------");
 
         int isDot=str.indexOf ('.');
@@ -122,10 +120,14 @@ public class CharacterString {
 
 
         boolean result2= str2.equals (str3);
-        System.out.println (result2);
+        System.out.println ("Result 2 is " + result2);
 
-        char a = 'b';
+        char a = 'a';
         System.out.println(a);
+        int charResult = (int) a;
+        System.out.println ("ASCII value =" + charResult);
+
+
         int one = a - 46;//
 
         System.out.println(one);
