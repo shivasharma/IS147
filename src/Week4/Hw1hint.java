@@ -18,7 +18,7 @@ public class Hw1hint {
 
         //HW1 part2 sample
         // Comparision operator
-        //== operatoor
+        //== operator
         boolean firstString=("Java"=="java");
         System.out.println ("String comparision " + firstString);
 
