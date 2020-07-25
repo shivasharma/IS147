@@ -2,9 +2,7 @@ package Week3;
 
 import java.util.Date;
 
-/**
- * Created by Shiva on 2/10/2016.
- */
+
 public class StringPrint {
     public static  void main(String[] args){
 

@@ -1,10 +1,5 @@
 package Week3;
 
-/**
- * Created by s.sharma on 9/10/2015.
- */
-
-import java.lang.Math;
 
 public class MathOperation {
     public static void main(String[] args) {

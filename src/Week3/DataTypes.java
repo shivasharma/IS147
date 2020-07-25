@@ -1,8 +1,5 @@
 package Week3;
 
-/**
- * Created by s.sharma on 9/10/2015.
- */
 
 public class DataTypes {
     public static void main(String[] args) {

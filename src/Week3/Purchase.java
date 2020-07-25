@@ -1,8 +1,5 @@
 package Week3;
 
-/**
- * Created by Shiva on 9/9/2015.
- */
 
 import java.text.NumberFormat;
 import java.util.Scanner;

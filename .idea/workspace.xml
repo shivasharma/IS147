@@ -2,17 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e4ebb05-52c3-4817-a546-ccf67d52766f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IS147.iml" beforeDir="false" afterPath="$PROJECT_DIR$/IS147.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week2/Print/Java.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week2/Print/Java.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week2/Print/Lab1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week2/Print/Lab1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week3/BigDecimalExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week3/BigDecimalExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week3/Conversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week3/Conversion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week3/CurrentTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week3/CurrentTime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week3/DataTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week3/DataTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week3/Final.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week3/Final.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week3/HelperClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week3/HelperClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week3/MathOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week3/MathOperation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week3/Parse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week3/Parse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week3/Purchase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week3/Purchase.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,64 +22,27 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1fBGTJBwQCAfiYy7ulJpvgOrIq0" />
-  <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="company" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Java">
+    <configuration name="Java" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week2.Print.Java" />
+      <module name="IS147" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week2.Print.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="IS147" />
@@ -89,6 +53,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Java" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Java" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -101,6 +74,51 @@
       <option name="presentableId" value="Default" />
       <updated>1595684080886</updated>
     </task>
+    <task id="LOCAL-00001" summary="Removed build">
+      <created>1595684176203</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1595684176203</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Removed build">
+      <created>1595684233262</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1595684233262</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Removed build" />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed build" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="587" y="88" key="CommitChangelistDialog2" timestamp="1595684232053">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="587" y="88" key="CommitChangelistDialog2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1595684232053" />
+    <state width="938" height="282" key="GridCell.Tab.0.bottom" timestamp="1595684446652">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1595684446652" />
+    <state width="938" height="282" key="GridCell.Tab.0.center" timestamp="1595684446652">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1595684446652" />
+    <state width="938" height="282" key="GridCell.Tab.0.left" timestamp="1595684446651">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1595684446651" />
+    <state width="938" height="282" key="GridCell.Tab.0.right" timestamp="1595684446652">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1595684446652" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1595684235278">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1595684235278" />
   </component>
 </project>

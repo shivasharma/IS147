@@ -1,8 +1,6 @@
 package Week3;
 
-/**
- * Created by Shiva on 9/9/2015.
- */
+
 public class Conversion {
 
     public static void main(String[] args) {

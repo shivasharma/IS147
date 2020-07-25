@@ -1,8 +1,6 @@
 package Week3;
 
-/**
- * Created by Shiva on 9/5/2015.
- */
+
 public class CurrentTime {
     public static void main(String[] args) {
 
