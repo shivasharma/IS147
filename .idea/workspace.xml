@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e4ebb05-52c3-4817-a546-ccf67d52766f" name="Default Changelist" comment="" />
+    <list default="true" id="5e4ebb05-52c3-4817-a546-ccf67d52766f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/Week4/BooleanExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week4/BooleanExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week4/ChineseZodiac.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week4/ChineseZodiac.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week4/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week4/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week4/GuessBirthday.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week4/GuessBirthday.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week4/Hw1hint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week4/Hw1hint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week4/RandomNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week4/RandomNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week4/SimpleIfDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week4/SimpleIfDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week4/SubtractionQuiz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week4/SubtractionQuiz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week4/Switch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week4/Switch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week4/XORExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week4/XORExample.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -96,7 +107,28 @@
       <option name="project" value="LOCAL" />
       <updated>1595685040229</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Updated code">
+      <created>1595685084736</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1595685084736</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Updated code">
+      <created>1595685246800</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1595685246800</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Updated code">
+      <created>1595685297216</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1595685297216</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

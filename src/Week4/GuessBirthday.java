@@ -1,7 +1,5 @@
 package Week4;
-
 import java.util.Scanner;
-
 public class GuessBirthday {
     public static void main(String[] args) {
         String set1 =

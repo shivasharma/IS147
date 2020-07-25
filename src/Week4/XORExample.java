@@ -1,8 +1,6 @@
 package Week4;
 
 public class XORExample {
-
-
         public static void main(String[]args){
             boolean x = false;
             boolean y = false;

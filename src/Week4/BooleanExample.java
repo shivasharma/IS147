@@ -1,6 +1,5 @@
 package Week4;
 
-
 public class BooleanExample {
 
     static boolean defaultValue;
