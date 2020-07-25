@@ -1,7 +1,4 @@
-
-/**
- * Created by Shiva on 9/12/2015.
- */
+package Week4;
 
 import java.util.Scanner;
 

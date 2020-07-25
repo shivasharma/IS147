@@ -1,8 +1,6 @@
 package Week4;
 
-/**
- * Created by Shiva on 9/21/2016.
- */
+
 public class BooleanExample {
 
     static boolean defaultValue;

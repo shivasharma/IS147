@@ -1,10 +1,8 @@
 package Week4;
 
-/**
- * Created by Shiva on 9/19/2015.
- */
+
 import java.util.Random;
-import java.util.Scanner; // Scanne
+import java.util.Scanner;
 public class Demo {
 
 

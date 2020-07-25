@@ -2,9 +2,7 @@ package Week4;
 
 import java.util.Random;
 
-/**
- * Created by Shiva on 9/12/2015.
- */
+
 public class RandomNumber {
     public static void main (String [] args){
 

@@ -1,8 +1,6 @@
 package Week4;
 
-/**
- * Created by Shiva on 9/5/2015.
- */
+
 import java.util.Scanner;
 
 public class ChineseZodiac {

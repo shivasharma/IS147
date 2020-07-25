@@ -1,8 +1,5 @@
 package Week4;
 
-/**
- * Created by Shiva on 9/12/2015.
- */
 
 import java.util.Scanner;
 
@@ -20,7 +17,7 @@ public class SubtractionQuiz {
             number2 = temp;
         }
 
-        // 3. Prompt the student to answer “what is number1 – number2?”
+        // 3. Prompt the student to answer ï¿½what is number1 ï¿½ number2?ï¿½
         System.out.print
                 ("What is " + number1 + " - " + number2 + "? ");
         Scanner input = new Scanner(System.in);

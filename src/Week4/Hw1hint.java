@@ -1,8 +1,6 @@
 package Week4;
 
-/**
- * Created by Shiva on 9/13/2015.
- */
+
 public class Hw1hint {
 
     public static void main(String[]args){

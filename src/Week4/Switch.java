@@ -2,18 +2,16 @@ package Week4;
 
 import java.util.Scanner;
 
-/**
- * Created by Shiva on 9/12/2015.
- */
+
 public class Switch {
 
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
 
-        Scanner sc = new Scanner (System.in);
-        System.out.print ("Enter your classname for eg. IS147: ");
-        String className = sc.nextLine ();
-        Showmyclass (className);
+        Scanner sc = new Scanner(System.in);
+        System.out.print("Enter your classname for eg. IS147: ");
+        String className = sc.nextLine();
+        Showmyclass(className);
     }
 
     public static  void Showmyclass(String myclass) {
