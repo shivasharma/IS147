@@ -1,8 +1,6 @@
 package Week11;
 
-/**
- * Created by Shiva on 11/1/2015.
- */
+
 public class EnumTest {
     Day day;
 

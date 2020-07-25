@@ -2,16 +2,19 @@ package Week9;
 
 import java.util.Scanner;
 
-/**
- * Created by Shiva on 10/21/2015.
- */
+
 class BinarySearch
 {
-    public static void main(String args[])
-    {
-        int c, first, last, middle, n, search, array[];
+    public static void main(String[] args) {
+        int c;
+        int first;
+        int last;
+        int middle;
+        int n;
+        int search;
+        int[] array;
 
-        Scanner in = new Scanner (System.in);
+        Scanner in = new Scanner(System.in);
         System.out.println("Enter number of elements");
         n = in.nextInt();
         array = new int[n];

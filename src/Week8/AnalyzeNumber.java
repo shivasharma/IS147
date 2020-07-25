@@ -1,8 +1,6 @@
 package Week8;
 
-/**
- * Created by Shiva on 10/14/2015.
- */
+
 class AnalyzeNumbers {
     public static void main(String[] args) {
         final int NUMBER_OF_ELEMENTS = 10;

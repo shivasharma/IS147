@@ -1,8 +1,5 @@
 package Week11.ClassLabInheritance;
 
-/**
- * Created by Shiva on 11/11/2015.
- */
 /*
     private class Employee {
         String salary=100000;

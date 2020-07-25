@@ -1,8 +1,6 @@
 package Week12.Hw5;
 
-/**
- * Created by Shiva on 11/18/2015.
- */
+
 public class InterfaceInheritance {
 /*
       public static void main(String[] args) {

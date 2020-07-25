@@ -1,8 +1,6 @@
 package Week11.InheritanceII;
 
-/**
- * Created by Shiva on 11/11/2015.
- */
+
 
 class Calculation{
      public int z;
@@ -25,12 +23,12 @@ public class MyCalculation extends Calculation {
     }
 
 
-    public static void main(String args[]){
-        int a=20, b=10;
+    public static void main(String[] args) {
+        int a = 20, b = 10;
         MyCalculation demo = new MyCalculation();
 
-        demo.z=10;
-        System.out.println (demo.z);
+        demo.z = 10;
+        System.out.println(demo.z);
         demo.addition(a, b);
         demo.Substraction(a, b);
         demo.multiplication(a, b);

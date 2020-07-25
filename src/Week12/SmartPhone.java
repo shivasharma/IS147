@@ -1,17 +1,36 @@
 package Week12;
-/**
- * Created by Shiva on 11/18/2015.
- */
-public class SmartPhone  implements Iphone,Android,BlackBerry,Nokia{
+
+interface Iphone {
+    String name = "Iphone";
+
+    void TakePhoto();
+
+}
+
+interface Android {
+    void RecordVideo();
+
+}
+
+interface BlackBerry {
+    void SendMessage();
+
+}
+
+interface Nokia {
+    void Playgame();
+
+}
+
+public class SmartPhone implements Iphone, Android, BlackBerry, Nokia {
 
 
-
-    public static void main(String args[]){
-        SmartPhone mysmartPhone=new SmartPhone ();
-        mysmartPhone.RecordVideo ();
-        mysmartPhone.TakePhoto ();
-        mysmartPhone.Playgame ();
-        mysmartPhone.SendMessage ();
+    public static void main(String[] args) {
+        SmartPhone mysmartPhone = new SmartPhone();
+        mysmartPhone.RecordVideo();
+        mysmartPhone.TakePhoto();
+        mysmartPhone.Playgame();
+        mysmartPhone.SendMessage();
     }
 
     @Override
@@ -33,25 +52,5 @@ public class SmartPhone  implements Iphone,Android,BlackBerry,Nokia{
     public void SendMessage() {
         System.out.println ("BlackBerry Interface Feature");
     }
-}
- interface Iphone {
-     public String name="Iphone";
-    public void TakePhoto();
-
-}
-
-interface Android {
-    public void RecordVideo();
-
-}
-
-interface BlackBerry {
-    public void SendMessage();
-
-}
-
-interface Nokia {
-    public void Playgame();
-
 }
 

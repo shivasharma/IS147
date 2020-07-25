@@ -1,8 +1,6 @@
 package Week7;
 
-/**
- * Created by s.sharma on 10/5/2015.
- */
+
 public class ReturnValueFromMethod {
 
     public static void main(String[] args)
@@ -21,6 +19,6 @@ public class ReturnValueFromMethod {
     }
 
     private static boolean sub2(int num){
-        return (num>10)?true:false;
+        return num > 10;
     }
 }

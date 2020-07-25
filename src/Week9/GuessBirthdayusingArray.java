@@ -1,8 +1,6 @@
 package Week9;
 
-/**
- * Created by Shiva on 10/21/2015.
- */
+
 import java.util.Scanner;
 
 public class GuessBirthdayusingArray {

@@ -1,8 +1,5 @@
 package Week8;
 
-/**
- * Created by Shiva on 10/14/2015.
- */
 
 public class GetRandom {
     public static void main(String[] args) {

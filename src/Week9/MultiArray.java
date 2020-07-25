@@ -1,13 +1,11 @@
 package Week9;
 
-/**
- * Created by Shiva on 10/21/2015.
- */
+
 public class MultiArray {
 
     public static void main(String[]args){
         // Declaration of allocating memory to multi dimensional array
-        int iarr[][]  = new int[2][3];
+        int[][] iarr = new int[2][3];
 
 // Initializing elements
         iarr[0][0] = 1;

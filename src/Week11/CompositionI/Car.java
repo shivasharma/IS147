@@ -1,8 +1,6 @@
 package Week11.CompositionI;
 
-/**
- * Created by Shiva on 11/11/2015.
- */
+
 public class Car {
 
     // Methods implementation and class/Instance members

@@ -1,8 +1,5 @@
 package Week7;
 
-/**
- * Created by s.sharma on 10/5/2015.
- */
 public class Scope {
 
 

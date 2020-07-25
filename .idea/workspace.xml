@@ -2,18 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e4ebb05-52c3-4817-a546-ccf67d52766f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week2/Print/Java.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week2/Print/Java.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week2/Print/Lab1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week2/Print/Lab1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week3/BigDecimalExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week3/BigDecimalExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week3/Conversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week3/Conversion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week3/CurrentTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week3/CurrentTime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week3/DataTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week3/DataTypes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week3/Final.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week3/Final.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week3/HelperClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week3/HelperClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week3/MathOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week3/MathOperation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week3/Parse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week3/Parse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week3/Purchase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week3/Purchase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week7/AnotherClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week7/AnotherClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week7/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week7/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week7/MethodOverload.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week7/MethodOverload.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week7/MultiMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week7/MultiMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week7/PassValueToMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week7/PassValueToMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week7/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week7/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week7/ReturnValueFromMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week7/ReturnValueFromMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week7/Scope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week7/Scope.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week8/AnalyzeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week8/AnalyzeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week8/Area.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week8/Area.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week8/ArrayDefaultValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week8/ArrayDefaultValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week8/ArrayReturnMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week8/ArrayReturnMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week8/BasicArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week8/BasicArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week8/CommandLineArgument.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week8/CommandLineArgument.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week8/GetRandom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week8/GetRandom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week8/NumberArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week8/NumberArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week8/OutofBound.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week8/OutofBound.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week8/ParameterList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week8/ParameterList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week8/ParameterListStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week8/ParameterListStudent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week8/PrintArrayArgument.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week8/PrintArrayArgument.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week8/Sales.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week8/Sales.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week8/StringArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week8/StringArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week8/TestpassArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week8/TestpassArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week9/BinaryArrayUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week9/BinaryArrayUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week9/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week9/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week9/CheckSudokoSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week9/CheckSudokoSolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week9/Grade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week9/GradeExam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week9/GradeExam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week9/GuessBirthdayusingArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week9/GuessBirthdayusingArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week9/LinearSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week9/LinearSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week9/MultiArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week9/MultiArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week9/MultiDimensionArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week9/MultiDimensionArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week9/PassTwoDimensionalArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week9/PassTwoDimensionalArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week9/RaggedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week9/RaggedArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,18 +110,37 @@
       <option name="project" value="LOCAL" />
       <updated>1595684233262</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Removed build">
+      <created>1595684483137</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1595684483137</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Updated code">
+      <created>1595684582148</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1595684582148</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <MESSAGE value="Removed build" />
-    <option name="LAST_COMMIT_MESSAGE" value="Removed build" />
+    <MESSAGE value="Updated code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated code" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="587" y="88" key="CommitChangelistDialog2" timestamp="1595684232053">
+    <state x="587" y="88" key="CommitChangelistDialog2" timestamp="1595684580329">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="587" y="88" key="CommitChangelistDialog2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1595684232053" />
+    <state x="587" y="88" key="CommitChangelistDialog2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1595684580329" />
     <state width="938" height="282" key="GridCell.Tab.0.bottom" timestamp="1595684446652">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -116,9 +157,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="938" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1595684446652" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1595684235278">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1595684493471">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1595684235278" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1595684493471" />
   </component>
 </project>

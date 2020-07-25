@@ -1,8 +1,6 @@
 package Week10;
 
-/**
- * Created by Shiva on 11/4/2015.
- */
+
 public class Payroll {
     public static void main(String[] args) {
         Address a1 = new Address ("123", "South Main Street", "Cleveland", "OH", "12345");

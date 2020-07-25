@@ -1,8 +1,6 @@
 package Week11.Inheritance;
 
-/**
- * Created by Shiva on 11/11/2015.
- */
+
 public class MainClass {
     public static void main(String[] args) {
         Animal animal = new Animal();

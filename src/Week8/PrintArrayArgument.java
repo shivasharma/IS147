@@ -1,8 +1,6 @@
 package Week8;
 
-/**
- * Created by Shiva on 10/15/2015.
- */
+
 public class PrintArrayArgument {
 
     public static void main(String[] args){

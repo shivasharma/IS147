@@ -1,8 +1,5 @@
 package Week10;
 
-/**
- * Created by Shiva on 11/4/2015.
- */
 
 public class Car
 {

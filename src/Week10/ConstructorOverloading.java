@@ -1,8 +1,6 @@
 package Week10;
 
-/**
- * Created by Shiva on 11/4/2015.
- */
+
 public class ConstructorOverloading {
 
     private int rollNum;
@@ -28,8 +26,7 @@ public class ConstructorOverloading {
     }
 }
 class TestDemo{
-    public static void main(String args[])
-    {
+    public static void main(String[] args) {
         ConstructorOverloading obj = new ConstructorOverloading(12);
         System.out.println(obj.getRollNum());
     }

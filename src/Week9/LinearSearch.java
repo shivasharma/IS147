@@ -2,16 +2,15 @@ package Week9;
 
 import java.util.Scanner;
 
-/**
- * Created by Shiva on 10/21/2015.
- */
 public class LinearSearch {
 
-    public static void main(String args[])
-    {
-        int counter, num, item, array[];
+    public static void main(String[] args) {
+        int counter;
+        int num;
+        int item;
+        int[] array;
         //To capture user input
-        Scanner input = new Scanner (System.in);
+        Scanner input = new Scanner(System.in);
         System.out.println("Enter number of elements:");
         num = input.nextInt();
         //Creating array to store the all the numbers

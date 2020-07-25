@@ -1,9 +1,5 @@
 package Week10;
 
-/**
- * Created by Shiva on 11/4/2015.
- */
-
 
     public class StudentData
     {
@@ -23,12 +19,11 @@ package Week10;
 
 class TestOverloading
 {
-    public static void main(String args[])
-    {
+    public static void main(String[] args) {
         //This object creation would call the default constructor
         //StudentData()
-       /*This object creation would call the parameterized
-        * constructor StudentData(int, String, int)*/
+        /*This object creation would call the parameterized
+         * constructor StudentData(int, String, int)*/
 
     }
 }

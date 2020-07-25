@@ -1,13 +1,5 @@
 package Week9;
 
-/**
- * Created by Shiva on 10/21/2015.
- */
-
-
-/**
- * Created by Shiva on 10/14/2015.
- */
 public class ReferenceArray
 {
     int x=10;

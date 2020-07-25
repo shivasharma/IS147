@@ -1,8 +1,6 @@
 package Week8;
 
-/**
- * Created by Shiva on 10/14/2015.
- */
+
 public class BasicArray
 {
     //-----------------------------------------------------------------

@@ -1,8 +1,6 @@
 package Week10;
 
-/**
- * Created by Shiva on 11/4/2015.
- */
+
 public class TestSimpleCircle {
     /** Main method */
     public static void main(String[] args) {

@@ -1,8 +1,5 @@
 package Week8;
 
-/**
- * Created by Shiva on 10/14/2015.
- */
 class Area
 {
     void find(long l,long b)

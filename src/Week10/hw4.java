@@ -1,8 +1,6 @@
 package Week10;
 
-/**
- * Created by Shiva on 11/4/2015.
- */
+
 public class hw4 {
     public hw4(){
         System.out.println("Default constructor");
@@ -16,12 +14,14 @@ public class hw4 {
 
         System.out.println("Parametrized constructor with double args");
     }
-    public hw4(int num1, int num2, int num3){
+
+    public hw4(int num1, int num2, int num3) {
         // It will call the constructor with (String, integer) arguments
 
         System.out.println("Parametrized constructor with three args");
     }
-    public static void main(String args[]){
+
+    public static void main(String[] args) {
         //Creating an object using Constructor with 3 int arguments
 
     }

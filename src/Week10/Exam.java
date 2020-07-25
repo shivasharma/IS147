@@ -2,23 +2,21 @@ package Week10;
 
 import java.util.Scanner;
 
-/**
- * Created by Shiva on 10/29/2015.
- */
+
 public class Exam {
 
-   // Suppose x is 1. What is x after x += 2?
-  public static void main(String argv[]){
-      System.out.println ( "Suppose x is 1. What is x after x += 2?");
-      int x=1;
-      System.out.println(x+=2);
+    // Suppose x is 1. What is x after x += 2?
+    public static void main(String[] argv) {
+        System.out.println("Suppose x is 1. What is x after x += 2?");
+        int x = 1;
+        System.out.println(x += 2);
 
 
-      // going form left to right PEMDAS, BODMAS
-      System.out.println (" 4 + 20 / (3 - 1) * 2");
-      System.out.println ( 4 + 20 / (3 - 1) * 2);
+        // going form left to right PEMDAS, BODMAS
+        System.out.println(" 4 + 20 / (3 - 1) * 2");
+        System.out.println(4 + 20 / (3 - 1) * 2);
 
-   //The result of 10000 * 10000 * 10000 is too large to be stored in an int variable n
+        //The result of 10000 * 10000 * 10000 is too large to be stored in an int variable n
       // This causes an overflow and the program continues to execute because Java does not report errors on overflow.
      int n=10000*10000*10000;
       System.out.println (n);

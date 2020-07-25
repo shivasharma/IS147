@@ -1,11 +1,11 @@
 package Week9;
 
-/**
- * Created by Shiva on 10/21/2015.
- */
+
 public class GradeExam {
-    /** Main method */
-    public static void main(String args[]) {
+    /**
+     * Main method
+     */
+    public static void main(String[] args) {
         // Students' answers to the questions
         char[][] answers = {
                 {'A', 'B', 'A', 'C', 'C', 'D', 'E', 'E', 'A', 'D'},
