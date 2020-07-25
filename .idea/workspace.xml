@@ -1,42 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e4ebb05-52c3-4817-a546-ccf67d52766f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Week7/AnotherClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week7/AnotherClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week7/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week7/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week7/MethodOverload.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week7/MethodOverload.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week7/MultiMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week7/MultiMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week7/PassValueToMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week7/PassValueToMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week7/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week7/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week7/ReturnValueFromMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week7/ReturnValueFromMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week7/Scope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week7/Scope.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week8/AnalyzeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week8/AnalyzeNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week8/Area.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week8/Area.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week8/ArrayDefaultValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week8/ArrayDefaultValue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week8/ArrayReturnMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week8/ArrayReturnMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week8/BasicArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week8/BasicArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week8/CommandLineArgument.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week8/CommandLineArgument.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week8/GetRandom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week8/GetRandom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week8/NumberArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week8/NumberArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week8/OutofBound.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week8/OutofBound.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week8/ParameterList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week8/ParameterList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week8/ParameterListStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week8/ParameterListStudent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week8/PrintArrayArgument.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week8/PrintArrayArgument.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week8/Sales.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week8/Sales.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week8/StringArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week8/StringArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week8/TestpassArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week8/TestpassArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week9/BinaryArrayUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week9/BinaryArrayUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week9/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week9/BinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week9/CheckSudokoSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week9/CheckSudokoSolution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week9/Grade.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week9/GradeExam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week9/GradeExam.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week9/GuessBirthdayusingArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week9/GuessBirthdayusingArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week9/LinearSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week9/LinearSearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week9/MultiArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week9/MultiArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week9/MultiDimensionArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week9/MultiDimensionArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week9/PassTwoDimensionalArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week9/PassTwoDimensionalArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week9/RaggedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week9/RaggedArray.java" afterDir="false" />
-    </list>
+    <list default="true" id="5e4ebb05-52c3-4817-a546-ccf67d52766f" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -124,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595684582148</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Updated code">
+      <created>1595685040229</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1595685040229</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
