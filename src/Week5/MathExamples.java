@@ -2,9 +2,7 @@ package Week5;
 
 import java.util.Random;
 
-/**
- * Created by Shiva on 9/23/2015.
- */
+
 public class MathExamples {
 
 

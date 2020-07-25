@@ -2,9 +2,7 @@ package Week6;
 
 import java.util.Scanner;
 
-/**
- * Created by s.sharma on 3/10/2016.
- */
+
 public class Quit {
 
     public static void main(String[] args) {

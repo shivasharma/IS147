@@ -1,23 +1,20 @@
+package Week6;
 
-import java.util.Scanner;
 public class Loop {
-    //
-
-        public static void main(String[] args) {
-
-            System.out.println ("---------- While Loop---------");
-            WhileLoop();
-
-            System.out.println ("----------Do While Loop---------");
-            DowhileLoop();
-
-            System.out.println ("----------For Loop---------");
-            ForLoop();
 
 
+    public static void main(String[] args) {
 
-        }
+        System.out.println ("---------- While Loop---------");
+        WhileLoop();
 
+        System.out.println ("----------Do While Loop---------");
+        DowhileLoop();
+
+        System.out.println ("----------For Loop---------");
+        ForLoop();
+
+    }
 
     public static void WhileLoop(){
         int i = 10;

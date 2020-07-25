@@ -1,8 +1,6 @@
 package Week5;
 
-/**
- * Created by Shiva on 9/23/2015.
- */
+
 public class CharacterString {
 
     public static void main(String[] args) {
@@ -42,7 +40,7 @@ public class CharacterString {
         String message= "Welcome to Java";
         System.out.println (message);
 
-        String stringMessage = new String("Welcome to Java");
+        String stringMessage = "Welcome to Java";
         System.out.println (stringMessage);
 
 
@@ -122,7 +120,7 @@ public class CharacterString {
 
         char a = 'a';
         System.out.println(a);
-        int charResult = (int) a;
+        int charResult = a;
         System.out.println ("ASCII value =" + charResult);
 
 

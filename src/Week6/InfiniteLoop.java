@@ -1,8 +1,6 @@
 package Week6;
 
-/**
- * Created by s.sharma on 3/10/2016.
- */
+
 public class InfiniteLoop {
     public static void main(String[] args) {
         int count = 0;

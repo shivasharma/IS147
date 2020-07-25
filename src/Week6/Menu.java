@@ -1,9 +1,6 @@
 package Week6;
 import java.util.Scanner;
 
-/**
- * Created by Shiva on 9/27/2015.
- */
 public class Menu {
     public static void main(String[] args) {
 
@@ -48,7 +45,6 @@ public class Menu {
             System.out.println("3. Display list of Clients");
 
             System.out.println("4. Delete entry");
-;
 
             Scanner input = new Scanner(System.in) ;
             System.out.println ("Enter your choise");
