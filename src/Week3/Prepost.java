@@ -10,10 +10,11 @@ public class Prepost {
         num=count++;
         System.out.println ("Your postfix result of num=count++ is num= "
                 + num + " and count= " + count );
-
-        num=0;
+       /* num=0;
         count=4;
         num=++count;
         System.out.println ("Your prefix  result of num=++count is num= "+num + " and count= " + count);
+
+        */
     }
 }
