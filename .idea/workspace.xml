@@ -1,17 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e4ebb05-52c3-4817-a546-ccf67d52766f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Week4/BooleanExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week4/BooleanExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week4/ChineseZodiac.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week4/ChineseZodiac.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week4/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week4/Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week4/GuessBirthday.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week4/GuessBirthday.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week4/Hw1hint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week4/Hw1hint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week4/RandomNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week4/RandomNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week4/SimpleIfDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week4/SimpleIfDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week4/SubtractionQuiz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week4/SubtractionQuiz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week4/Switch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week4/Switch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week4/XORExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week4/XORExample.java" afterDir="false" />
+    <list default="true" id="5e4ebb05-52c3-4817-a546-ccf67d52766f" name="Default Changelist" comment="Updated code">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week3/Prepost.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week3/Prepost.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,10 +37,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
   <component name="RunManager" selected="Application.Java">
-    <configuration name="Java" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Java" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Week2.Print.Java" />
-      <module name="IS147" />
+      <module name="untitled104" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Week2.Print.*" />
@@ -52,15 +66,11 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.Java" />
+      <item itemvalue="Application.Main" />
     </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Java" />
-      </list>
-    </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -128,8 +138,26 @@
       <option name="project" value="LOCAL" />
       <updated>1595685297216</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Updated code">
+      <created>1600291721870</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1600291721870</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
@@ -161,9 +189,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="938" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1595684446652" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1595684493471">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1600291836354">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1600291836354" />
+    <state x="442" y="200" key="Vcs.Push.Dialog.v2" timestamp="1600291723725">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="442" y="200" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1600291723725" />
     <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1595684493471" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1600291831086">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1600291831086" />
   </component>
 </project>
