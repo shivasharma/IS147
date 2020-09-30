@@ -10,5 +10,22 @@ class Immutable{
         
         s=s.concat(" 147");
         System.out.println(s);
+        
+        //String Builder efficient way to construct string values add new content to end with append
+        
+        String myLocation="California";
+        int flightNumber =100;
+
+        StringBuilder sb=new StringBuilder(40);
+        sb.append(" I flew  from MD to ");
+        sb.append ( myLocation);
+        sb.append ( " on Flight # ");
+        sb.append (flightNumber);
+        String message=sb.toString();
+        System.out.println(message);
+        System.out.println(message.length());
+
+        
+        
     }
 }
