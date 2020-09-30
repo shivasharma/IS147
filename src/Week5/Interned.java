@@ -5,7 +5,7 @@ public class Interned {
 
     public static void main(String[] args) {
 
-         String s1 = "Welcome to java";
+ String s1 = "Welcome to java";
         String s2 = "Welcome to java";
         String s3 = "Welcome to java";
 
@@ -16,6 +16,12 @@ public class Interned {
 
         String s4= new String("Welcome to java");
         System.out.println("s1==s4 is "+ (s1==s4));
+
+        String s5=s1.intern();
+        String s6= s4.intern();
+        if(s5==s6){
+            System.out.println("String is equal");
+        }
 
     }
 }
