@@ -1,0 +1,18 @@
+ public static void main(String[] args) {
+
+
+        int i = 20;
+        int j = i;
+        j++; // will not affect i, j will be 21 but i will still be 20
+
+        System.out.printf("value of i and j after modification i: %d, j: %d %n", i, j);
+
+        List<String> list = new ArrayList(2);
+        List<String> copy = list;
+
+        copy.add("EUR"); // adding a new element into list, it would be visible to both list and copy
+        list.add("USD");
+        System.out.printf("value of list and copy after modification list: %s, copy: %s %n", list, copy);
+
+
+    }
