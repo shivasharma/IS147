@@ -1,7 +1,7 @@
 package Week11.ClassLabAggregation;
 
 /**
- * Created by Shiva on 11/11/2015.
+
  */
     //create Operation class
     // define method name square with return type  int
@@ -31,7 +31,7 @@ class Circle{
 
         //create Circle class object
         //call circle class area method pass some default value
-        //stroe the result of area method into new variable
+        //store the result of area method into new variable
         //print the result using varialbe;
 
     }
