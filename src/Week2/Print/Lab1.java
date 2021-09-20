@@ -7,7 +7,7 @@ public class Lab1 {
 
     public static void main(String[] args)
     {
-        system.out.println("This is my first message");
+        system.out.println("This is my first message";
 
         System.out.Println(This is my second message);
 
@@ -15,7 +15,7 @@ public class Lab1 {
 
         System.println("This is another message")
 
-          System.printLn("This is another message"
+          System.printLn("This is another message with erro"
 }
 
 }
