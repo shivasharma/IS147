@@ -3,7 +3,9 @@ package Week3;
 
 public class DataTypes {
     public static void main(String[] args) {
-        char letter = 'A';
+        char letter = 'U';
+        // For unicode code point, use \u followed by 4-digit hex value
+        char unicode = '\u00DA'
         boolean done = false;
         int radius = 10;
         //byte can be from -127 to +127 it can be used to create saturation of colors
