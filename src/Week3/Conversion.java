@@ -5,7 +5,6 @@ public class Conversion {
 
     public static void main(String[] args) {
         int i=10;
-
         float f=12.5f;
         double d=23.5d;
         int result=(int)f;
