@@ -19,18 +19,14 @@ Variables area of storage
         int StudentTotal;
         int bankAccountBalance
 
+Primitive data types are stored by Value
 
-
-Primitive data types
-
-  int myNumber;
-        myNumber=20;
-        System.out.println(myNumber);
-        int anotherNumber=30;
-        System.out.println(anotherNumber);
-
-        myNumber=antoherNumber;
-        System.out.println(anotherNumber);
+        int firstValue=100;
+        int secondValue=firstValue;
+        firstValue=50;
+        secondValue=70;
+        System.out.println(firstValue);
+        System.out.println(secondValue);;
 
 
         Final
