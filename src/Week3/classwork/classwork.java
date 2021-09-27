@@ -7,7 +7,11 @@ C:\Temp\out\production\Temp>java Main
 * if packages
         C:\Temp\out\production\Temp>java com.IS147.Main
 
-Variables area of storage
+        A class file in Java has a .class extension. It contains bytecode, which is instruction for Java Virtual Machine,
+        which translates that bytecode into platform-specific machine
+        level instruction based upon whether the Java program runs on Windows or Linux.
+
+        Variables area of storage
 
         int myVariable=100;
         int total;
