@@ -37,4 +37,29 @@ public class Switch {
         }
 
     }
+
+    public static void colorCode(){
+        int colorCode = 101;
+        String color = null;
+        switch(colorCode) {
+            case 100 :
+                color = "Yellow";
+                break;
+            case 101 :
+                color = "Green";
+                break;
+            case 102 :
+                color = "Red";
+                break;
+            default :
+                color = "Invalid";
+        }
+        System.out.println("Color ---&gt;"+color);
+    }
+
+    int colorCode = 101;
+    String color = null;
+    color=(colorCode==100)?"Yellow":((colorCode==101)?"Green":((colorCode==102)?"Red":"Invalid"));
+    System.out.println("Color ---&gt;"+color);
+
 }
