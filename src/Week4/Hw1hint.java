@@ -3,7 +3,6 @@ package Week4;
 
 public class Hw1hint {
     public static void main(String[]args){
-
         //HW1 part1 sample
         //arithmetical
         // + operator

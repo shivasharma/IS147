@@ -15,7 +15,6 @@ public class SubtractionQuiz {
             number1 = number2;
             number2 = temp;
         }
-
         // 3. Prompt the student to answer �what is number1 � number2?�
         System.out.print
                 ("What is " + number1 + " - " + number2 + "? ");

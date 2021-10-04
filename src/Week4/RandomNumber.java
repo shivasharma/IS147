@@ -5,8 +5,7 @@ import java.util.Random;
 public class RandomNumber {
     public static void main (String [] args){
 
-
-
+        
         //Using Math class
         //If you want to generate a number from 0 to 100 then your code would look like this:
         int number1 = (int)(Math.random() * 101);
