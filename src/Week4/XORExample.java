@@ -22,8 +22,6 @@ public class XORExample {
             xXorY = x ^ y;
             System.out.println ("true XOR true: " + xXorY); //false
 
-
-
     }
 
 }
