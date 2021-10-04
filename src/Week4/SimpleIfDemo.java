@@ -16,4 +16,19 @@ public class SimpleIfDemo {
             System.out.println ("Invalid number");
     }
 
+    int percentage=70;
+
+       if(percentage>=60){
+        System.out.println("A grade");
+    }else if(percentage>=40){
+        System.out.println("B grade");
+    }else {
+        System.out.println("Not Eligible");
+    }
+    
+
+    int percentage=70;
+
+    String resultValue = (percentage>=60)?"A grade":((percentage?=40)?"B grade":"Not    Eligible");
+        System.out.println(resultValue);
 }
