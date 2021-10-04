@@ -20,7 +20,9 @@ public class BooleanExample {
         System.out.println ("Character " + c1);
         char dollarSign = '\u0024';
         System.out.println ("Currency " + dollarSign);
-        
 
+
+
+     
     }
 }
