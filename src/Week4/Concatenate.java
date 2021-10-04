@@ -1,4 +1,4 @@
-public class ChineseZodiac {
+public class Concatenate {
     public static void main(String[] args) {
         String str1 = "I am ";
 
