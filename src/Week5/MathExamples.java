@@ -40,7 +40,7 @@ public class MathExamples {
         System.out.println ((int)(Math.random()* 1001));
 
         Random rand= new Random ();
-        int num= rand.nextInt(10)+20;
+        int num= rand.nextInt(10);
         //generate random number from 1 to 1000
         int number = (int)(Math.random() * 1000);
         //generate random number from 1 to 10
