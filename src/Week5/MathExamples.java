@@ -40,7 +40,7 @@ public class MathExamples {
         System.out.println ((int)(Math.random()* 1001));
 
         Random rand= new Random ();
-        int num= rand.nextInt(9999999)+9999999;
+        int num= rand.nextInt(10)+20;
         System.out.println(num);
     }
 }
