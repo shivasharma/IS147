@@ -36,6 +36,16 @@ class Immutable{
         
         s=s.concat(" 147");
         System.out.println(s);
+                                
+        String originalString1 = "howtodoinjava.com   "; // 3 trailing spaces
+        String originalString2 = "   howtodoinjava.com   "; // 3 leading and trailing spaces
+ 
+        String trimmedString1 = originalString1.trim();
+        String trimmedString2 = originalString2.trim();
+ 
+        System.out.println(trimmedString1);
+        System.out.println(trimmedString2);                   
+                                
         
         //String Builder efficient way to construct string values add new content to end with append
         
