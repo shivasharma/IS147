@@ -41,6 +41,10 @@ public class MathExamples {
 
         Random rand= new Random ();
         int num= rand.nextInt(10)+20;
+        //generate random number from 1 to 1000
+        int number = (int)(Math.random() * 1000);
+        //generate random number from 1 to 10
+        int number1 = (int)(Math.random() * 10);
         System.out.println(num);
     }
 }
