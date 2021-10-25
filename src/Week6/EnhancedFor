@@ -1,0 +1,11 @@
+ public static void main(String[] args) {
+    String array[] = {
+      "C++",
+      "C#",
+      "Java",
+      "Python"
+    };
+    for (String a: array) {
+      System.out.println(a);
+    }
+  }

@@ -1,9 +1,11 @@
 public static void main(String[] args) {
         int myValue=100;
         String sValue= String.valueOf(myValue); // “100”
+        System.out.println(((Object)sValue).getClass().getSimpleName());
         int i=2, j=3;
         int result=i*j;
         String output= i + "*" + j + "=" + result ; // “2*3=6”
         System.out.println(output);
+          System.out.println(((Object)output).getClass().getSimpleName());
 
     }

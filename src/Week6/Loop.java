@@ -14,6 +14,9 @@ public class Loop {
         System.out.println ("----------For Loop---------");
         ForLoop();
         
+        System.out.println ("--------- Enhanced Loop----------------");
+        EnhancedLoop();
+        
         System.out.println ("----------Nested Loop---------");
         NestedLoop();
 
@@ -49,6 +52,17 @@ public class Loop {
         }
     }
     
+    public static void EnhancedLoop(){
+       String array[] = {
+      "C++",
+      "C#",
+      "Java",
+      "Python"
+    };
+    for (String a: array) {
+      System.out.println(a);
+    }
+    }
     public static void NestedLoop(){
         for(int i=1;i<=3;i++){  
             //loop of j  
