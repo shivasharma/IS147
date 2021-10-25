@@ -4,10 +4,10 @@
 
     }
 
-        public  static long sum(int i, long j) {
+        public  static double sum(int i, double j) {
             return i+j;
         }
-        public static long sum(long i, int j) {
+        public static double sum(double i, int j) {
             return i+j;
         }
 }
