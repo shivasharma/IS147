@@ -1,0 +1,11 @@
+  class Visibility {
+
+ private static  String name="IS147";
+
+ public static String myName(String name){
+      return name;
+  }
+     static  int myName(int myclass){
+        return myclass;
+    }
+}
