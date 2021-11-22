@@ -16,7 +16,6 @@ public class Dog{
         this.name;
     }
     */
-
     public void setName(string name){
         //this set the local name value
         name=name;
