@@ -23,8 +23,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e4ebb05-52c3-4817-a546-ccf67d52766f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Week11/Super/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week11/Super/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week11/Super/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week4/BooleanExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week4/BooleanExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week11/Inheritance/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week11/Inheritance/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week7/Classwork/Classwork.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week7/Classwork/Classwork.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week8/CommandLineArgument.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week8/CommandLineArgument.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +42,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -46,6 +50,17 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Week7/Classwork/Classwork.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Week8/ArrayReturnMethod.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Week8/BasicArray.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Week8/CommandLineArgument.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Week7/AnotherClass.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Week8/ArrayDefaultValue.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Week7/Scope.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Week7/ReturnValueFromMethod.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Week8/AnalyzeNumber.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1fBGTJBwQCAfiYy7ulJpvgOrIq0" />
   <component name="ProjectViewState">
@@ -57,6 +72,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -216,7 +232,35 @@
       <option name="project" value="LOCAL" />
       <updated>1633368663057</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Updated code">
+      <created>1633374985605</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1633374985605</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Updated code">
+      <created>1635174176407</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1635174176407</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Updated code">
+      <created>1635175095661</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1635175095661</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Updated code">
+      <created>1637587788903</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1637587788903</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

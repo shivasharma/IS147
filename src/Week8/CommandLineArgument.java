@@ -15,5 +15,9 @@ public class CommandLineArgument {
         for (int i = 0; i < student.length; i++) {
             System.out.println ("args[" + i + "]:" + student[i]);
         }
+
+        for(String s: student){
+            System.out.println ("args[" + s + "]:" );
+        }
     }
 }
