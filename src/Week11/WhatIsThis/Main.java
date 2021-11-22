@@ -5,6 +5,7 @@ public class Main {
         myDog.setName("ABC");
         System.out.println(myDog.getName());
 
-
+        myDog.setName();
+        System.out.println(myDog.getName());
     }
 }
