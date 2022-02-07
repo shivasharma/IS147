@@ -1,12 +1,12 @@
 package Week2.Print;
 
 /**
- * Created by Shiva on 09/09/2020.
+ * Created by Shiva on 02/07/2022.
  */
 public class Lab1 {
 
-    public static void main(String[] args)
-    {
+    public static void Main(String[] args)
+    [
         system.out.println("This is my first message";
 
         System.out.Println(This is my second message);
