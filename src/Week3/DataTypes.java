@@ -10,7 +10,7 @@ public class DataTypes {
         int radius = 10;
         //byte can be from -127 to +127 it can be used to create saturation of colors
         byte red = 127;
-        //it is small than int
+        //it is smaller than int
         short age = 21;
         long population = 32145141;
         float price = 10.78f;
