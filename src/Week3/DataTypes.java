@@ -4,7 +4,7 @@ package Week3;
 public class DataTypes {
     public static void main(String[] args) {
         char letter = 'U';
-        // For unicode code point, use \u followed by 4-digit hex value
+        // For unicode code point, use "\u" followed by 4-digit hex value
         char unicode = '\u00DA'
         boolean done = false;
         int radius = 10;
@@ -18,9 +18,8 @@ public class DataTypes {
 
         // strings are arrays of characters string are not primitive data types, they are immutable
         String name = "Shiva Sharma";
-
-
-        System.out.println (letter);
+         System.out.println (letter);
+        System.out.println (unicode);
         System.out.println (done);
         System.out.println (radius);
         System.out.println (red);
