@@ -3,39 +3,28 @@ package Week9;
 
 public class RaggedArray {
 
-    public static void main(String[] args)
-    {
-
-        int[][] arrayNumbers = new int[2][6];
-        arrayNumbers[0][0] = 1;
-        arrayNumbers[0][1] = 2;
-        arrayNumbers[0][2] = 3;
-        arrayNumbers[0][3] = 4;
-        arrayNumbers[0][4] = 5;
-
-        double[][]arrayDouble = new double [2][6];
-        arrayDouble [0][0] = 1.1;
-        arrayDouble [0][1] = 2.2;
-        arrayDouble [0][2] = 3.3;
-        arrayDouble [0][3] = 4.4;
-        arrayDouble [0][4] = 5.5;
-
-        char[] arrayChar = {'h','e','l','l','o'};
 
 
-        int rows = 2;
-        int columns = 5;
+    public static void main(String[] args) {
+        // Declare a 2-D array with 3 rows
+        int myarray[][] = new int[3][];
+        // define and initialize jagged array
+        myarray[0] = new int[]{1,2,3};
+        myarray[1] = new int[]{4,5};
+        myarray[2] = new int[]{6,7,8,9,10};
 
-        int i,j;
-
-        for (i=0; i<rows ; i++){
-            for (j=0; j< columns ; j++){
-                System.out.print(arrayNumbers[i][j]+"");
-            }
-
-            System.out.print("");
+        // display the jagged array
+        System.out.println("Two dimensional Jagged Array:");
+        for (int i=0; i<myarray.length; i++)
+        {
+            for (int j=0; j<myarray[i].length; j++)
+            System.out.print(myarray[i][j] + " ");
+            System.out.println();
         }
+   }
 
-    }
-    }
+
+
+    
+    
 
