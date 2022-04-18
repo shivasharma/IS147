@@ -14,14 +14,14 @@ package Week11.ClassLabAggregation;
 
 
 class Circle{
-    //create operatoion class object here
+    //create operation class object here
     // define Math.PI property
    //call  square method inside the area method
     // return the area of a square value;
 
     double area(int radius){
 
-      // return "How do I fix this";
+      // return How do I fix this?;
         return 0.0;
     }
 
