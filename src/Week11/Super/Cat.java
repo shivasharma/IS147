@@ -9,7 +9,7 @@ public class Cat extends  Animal{
         //this.name=name;
 
         Super(age,name);
-        this.catFood=catFood
+        this.catFood=catFood;
     }
 
 
