@@ -1,0 +1,27 @@
+public class Animal {
+    String color;
+    public void eat(){
+        System.out.println("Animal Eating");
+    }
+}
+
+class Dog extends Animal{
+    String breed;
+    public void eat(){
+        System.out.println("Dog eating");
+         super.eat();
+    }
+    
+    
+}
+
+ public static void main(String[] args) {
+
+        // inheritance = 	the process where one class acquires,
+        //					the attributes and methods of another.
+
+       
+Dog dog =new Dog();
+dog.eat();
+
+    }
