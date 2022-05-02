@@ -22,15 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e4ebb05-52c3-4817-a546-ccf67d52766f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Week11/Super/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week11/Super/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week11/Super/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week11/Inheritance/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week11/Inheritance/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week7/Classwork/Classwork.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week7/Classwork/Classwork.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week8/CommandLineArgument.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week8/CommandLineArgument.java" afterDir="false" />
-    </list>
+    <list default="true" id="5e4ebb05-52c3-4817-a546-ccf67d52766f" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,11 +55,15 @@
     <setting file="file://$PROJECT_DIR$/src/Week8/AnalyzeNumber.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1fBGTJBwQCAfiYy7ulJpvgOrIq0" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -260,7 +256,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637587788903</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Updated code">
+      <created>1651498700790</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1651498700790</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -277,6 +280,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Removed build" />
     <MESSAGE value="Updated code" />
     <option name="LAST_COMMIT_MESSAGE" value="Updated code" />
