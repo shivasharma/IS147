@@ -5,13 +5,15 @@ public class MultiMethod {
 
 
     public static void main (String [] args){
-        System.out.println("Message from main method");
-        sub();
+        
+        System.out.println("Before calling  method");
+        doSomething();
+        System.out.println("After calling  method");
     }
 
     //void method
-    public static void sub(){
-        System.out.println("Message from sub method");
+    public static void doSomething(){
+        System.out.println("Message from doSomething method");
     }
 
 }
