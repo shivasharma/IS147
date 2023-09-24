@@ -24,6 +24,9 @@ public class ConditionalOperator {
         else
             System.out.println(num + " is odd");
 
+       System.out.println( (num % 2 == 0)? num + “is even” : num + “is odd”);
+
+
     }
 }
 
