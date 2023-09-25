@@ -29,6 +29,9 @@ public class RandomNumber {
         Random random= new Random ();
         double number3 = random.nextDouble()*1000;
         System.out.println ("The Double Random \t is " +number3);
+        
+         // Generate random number between 5 to 30  
+        double a = 5 + (Math.random() * 30);  
     }
 
 }
