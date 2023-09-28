@@ -9,12 +9,15 @@ public class CharacterString {
         char ch='a';
         System.out.println (++ch);
         System.out.println ("------------------------------");
-        char letter = 'A'; //(ASCII)
-        System.out.println ("A ASCII character is " +letter);
-        System.out.println ("------------------------------");
-        char numChar = '4';// (ASCII)
-        System.out.println ("4 ASCII character is "+ numChar);
-        System.out.println ("------------------------------");
+        int ascii = ch;
+        // You can also cast char to int
+        int castAscii = (int) ch;
+        System.out.println("The ASCII value of " + ch + " is: " + ascii);
+        System.out.println("The ASCII value of " + ch + " is: " + castAscii);
+      
+
+        System.out.println("The ASCII value of " + ch + " is: " + ascii);
+        System.out.println("The ASCII value of " + ch + " is: " + castAscii);
 
         char letterUni = '\u0041'; //(Unicode)
         System.out.println ("UNICODE  Letter character is "+ letterUni);
