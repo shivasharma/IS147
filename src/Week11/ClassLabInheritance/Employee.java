@@ -1,7 +1,7 @@
 package Week11.ClassLabInheritance;
 
 /*
-/* Create 3 diffrent files.
+/* Create 3 different files.
     private class Employee {
         String salary=100000;
 
