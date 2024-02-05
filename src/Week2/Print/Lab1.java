@@ -5,7 +5,7 @@ package Week2.Print;
  */
 public class Lab1 {
 
-    public static void Main(String[] args)
+    public static void Main(String[] args
     [
         system.out.println("This is my first message";
 
@@ -18,4 +18,4 @@ public class Lab1 {
           System.printLn("This is another message with error"
 }
 
-}
+
