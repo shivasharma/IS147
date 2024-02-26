@@ -14,13 +14,13 @@ public class Quit {
 
         while (!myValue.equalsIgnoreCase("q")) {
 
-
-            System.out.println("Welcome to How Bad Am I Failing. Please enter you three grades for your class. ");
-
-            System.out.print("\nWould you like to average out another class your failing. Type q to quit, or press any other key. ");
+        System.out.println("A - List All Cars");
+        System.out.println("B - Sort vehicles by vehicle Model");
+        System.out.println("C - Sort vehicles by vehicle Cost\n");
+        System.out.print("\nSelect a Menu Option: ");
             myValue = stay.nextLine();
         }
-        System.out.print("Bye. Good luck in your classes. :)");
+        System.out.print("Bye. Good luck finding you car. :)");
     }
     }
 
