@@ -20,7 +20,7 @@ public class Quit {
         System.out.print("\nSelect a Menu Option: ");
             myValue = stay.nextLine();
         }
-        System.out.print("Bye. Good luck finding you car. :)");
+        System.out.print("Bye. Good luck finding your car. :)");
     }
     }
 
