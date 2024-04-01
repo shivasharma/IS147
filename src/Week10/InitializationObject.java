@@ -6,6 +6,10 @@ class MyClass{
     number=20;
     name="Shiva";
   }
+   //Initialization block
+    {
+        number=500;
+    }
 }
 
 public class InitializationObject
