@@ -7,7 +7,7 @@ public class Cat extends  Animal{
     publci cat(int age,String name, String catFood){
        // this.age=age;
         //this.name=name;
-
+// what will happend if you move the order of this code?
         Super(age,name);
         this.catFood=catFood;
     }
