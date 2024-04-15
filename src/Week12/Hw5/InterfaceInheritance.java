@@ -27,7 +27,7 @@ public class InterfaceInheritance {
 
 }
 
-//Create individual files for each interface
+ Please create individual files for each interface
 
     interface Vehicle {
         void start();
