@@ -4,6 +4,7 @@ public class Challenge1 {
 
         // How do you print 2?
         // How do you print 4?
+       // Write another else if condfition to check k less than or equal  conditin and print 5
         
         int k = 5;
         if(k > 20) {
