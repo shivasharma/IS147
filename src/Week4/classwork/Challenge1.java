@@ -3,7 +3,9 @@ public class Challenge1 {
     {
 
         // How do you print 2?
-        int k = 20;
+        // How do you print 4?
+        
+        int k = 5;
         if(k > 20) {
             System.out.println(1);
         } else if(k > 10) {
