@@ -25,7 +25,8 @@ public class Prepost {
        num=0;
         count=4;
         num=++count;
-        System.out.println ("Your prefix  result of num=++count is num= "+num + " and count= " + count);
+        System.out.println ("Your prefix  result of" +
+                            num=++count is num= "+num + " and count= " + count);
 
 
     }
