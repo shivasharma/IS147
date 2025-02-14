@@ -1,5 +1,5 @@
 public class ConditionalOperator {
-   public static void main(String[] args) {
+    public static void main(String[] args) {
         conditional_operator1();
         conditional_operator2();
     }
@@ -10,10 +10,8 @@ public class ConditionalOperator {
             y = 1;
         } else {
             y = -1;
-
         }
         System.out.println( "Printing first y" +y);
-
         y = (x > 0) ? 1 : -1;
         System.out.println("Printing second y" +y);
     }
@@ -23,11 +21,6 @@ public class ConditionalOperator {
             System.out.println(num + "is even");
         else
             System.out.println(num + " is odd");
-
-       System.out.println( (num % 2 == 0)? num + “is even” : num + “is odd”);
-
-
+        System.out.println( (num % 2 == 0)? num + " is even" : num + " is odd");
     }
 }
-
-
