@@ -56,5 +56,5 @@ public class LogicalOperators {
             result = a ^ b;
             System.out.println("a ^ b: "+ result); //prints the result false
         }
-    }
-}
+   }
+
