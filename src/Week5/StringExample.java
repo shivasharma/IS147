@@ -3,12 +3,22 @@ package Week5;
 
 public class StringExample {
     public static void main(String[] args) {
+
+    String firstName = "John";
+    String lastName = "Doe";
+    String fullName = firstName + " " + lastName; // Using + operator
+    String fullName2 = firstName.concat(" ").concat(lastName); // Using concat() method
+
+System.out.println(fullName);  // Output: John Doe
+System.out.println(fullName2); // Output: John Doe
+
+        
         //This is created on the pool
         String str1 = "Hello";
         String str2 = "World";
         String str3 = str1 + " " + str2;
         System.out.println (str3);
-
+      
         //This is created on a Heap
      String streg = new String("IS147");
         
